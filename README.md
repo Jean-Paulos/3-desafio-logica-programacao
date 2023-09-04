@@ -9,20 +9,20 @@ O {tipo} deve ser concatenado com o tipo que está na propriedade da classe
 
 O {ataque} deve ser uma descrição diferente conforme o tipo do herói, seguindo a tabela abaixo:
 
-Se for mago, o ataque deve exibir "usou magia".
-Se for guerreiro, o ataque deve exibir "usou espada".
-Se for monge, o ataque deve exibir "usou artes marciais".
-Se for ninja, o ataque deve exibir "usou shuriken".
+Se for mago, o ataque deve exibir "usou magia". <br/>
+Se for guerreiro, o ataque deve exibir "usou espada".<br/>
+Se for monge, o ataque deve exibir "usou artes marciais".<br/>
+Se for ninja, o ataque deve exibir "usou shuriken".<br/>
 
 ## O que deve ser utilizado
 Para completar este projeto, você deve fazer uso dos seguintes conceitos:
 
-Variáveis
-Operadores
-Laços de repetição
-Estruturas de decisões
-Funções
-Classes e Objetos
+Variáveis<br/>
+Operadores<br/>
+Laços de repetição<br/>
+Estruturas de decisões<br/>
+Funções<br/>
+Classes e Objetos<br/>
 
 ## Saída Esperada
 Ao final da implementação, o programa deve ser capaz de exibir mensagens de ataque de acordo com o tipo de herói. Por exemplo:
@@ -31,8 +31,8 @@ Mago atacou usando magia.
 Guerreiro atacou usando espada.
 
 ## O que foi utilizado
-Linguagem: Python
-Biblioteca: Random (nativa do Python)
+Linguagem: Python<br/>
+Biblioteca: Random (nativa do Python)<br/>
 Conhecimentos Aplicados: Variáveis, Operadores, Estruturas de Decisão, Funções  e Classes e Objetos
 
 ## Imagens
